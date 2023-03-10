@@ -1,6 +1,7 @@
-# This is a H1
-## This is a H2
+# 이력서
+## 이름
 ### This is a H3
-#### This is a H4
-##### This is a H5
-###### This is a H6
+## 학력
+### This is a H3
+## 경력
+### This is a H3
